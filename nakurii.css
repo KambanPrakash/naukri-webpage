@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#F0F8FF;
+
+}
+.content{
+    padding: 10px;
+    background-color: white;
+    padding-top: 20px;
+}
+h3{
+    display:inline-block;
+    font-style: inherit; 
+    margin-right: 30px;
+    margin-bottom: 30px;  
+    cursor: pointer;
+    color: grey;
+    background-color: white;  
+}
+h3:hover{
+    color: black;
+}
+
+img{
+    padding-top: 21px;
+    padding-bottom:20px;
+    display: inline-block;
+    height: 40px;
+    width: 40x;
+    margin-right: 30px;
+    padding-left: 40px;
+    background-color: white;  
+    float: left;  
+}
+img{
+    padding-left: 200px;
+}
+.Services{
+    padding-right: 200px;
+}
+
+.first{
+    background-color:white;
+}
+
+.login{
+    color: blue;
+    background-color: white;
+    border-color: blue;
+    }
+.Register{
+    background-color: orangered;
+    border-color: orangered;
+}
+button{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 88px;
+    height: 40px;
+    border-radius: 25px;
+}
+
+.login,.Register,.foremployers{
+    margin-right: 20px;
+}
+.second{
+    text-align: center;
+    margin-top: 100px;;
+    font-size: larger;
+}
+h1{
+    padding: 15px;
+}
+input{
+    width:60%;
+    height:50px;
+    font-size: 20px;
+    padding:10px;
+    border-radius: 40px;
+    background-color: white;
+}
+.searchbar{
+    text-align: center;
+}
+.searchbutton{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+h4{
+    font-weight: 100;
+    font-size: large;
+    color:black;
+    padding-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    background-color:transparent;
+}
